@@ -1,0 +1,66 @@
+h2	{color: #754f5b;
+	font-size:50px
+}
+
+body 
+{background-color: #f9e0d9;
+}
+
+p
+{color: black;
+	font-family: Verdana;
+	font-style: cursive;
+}
+
+a
+{text-decoration: none;
+	color: #5d4954;}
+
+a: hover {color: #5d4954;
+font-size: 30px;}
+
+h1 {color: #754f5b;
+	font-size:10x
+}
+
+.Unikate {border-radius:5px;
+size: 30px;
+align-items: center;+-
+	    overflow: hidden;
+
+}
+
+.Unikate img {
+	width: 200px;
+	border-radius: 3px;
+}
+
+#header {
+	text-align: upright;
+	font-size: 30px;
+	padding:300px;
+	background-image: url("images/header3.jpg");
+	background-size: cover;
+}
+
+#login {
+	text-align: right;			
+	align-items: right;
+	font-size: 30px;
+}
+#Fußnote{
+	text-align: center;
+	color: #e6dbd0;
+	padding: 50px;
+	font-size:30px;
+	width: 100;
+}
+
+#Fußnote
+a: hover {color: #f9e0d9}
+
+
+#first_text {
+text-align: center;
+	padding: 3	0px;	
+}
